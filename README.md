@@ -44,6 +44,7 @@ cd <repository-directory>
 Use the provided `start.sh` script to build and start the Docker containers.
 
 ```sh
+cd ./HW6
 ./start.sh
 ```
 
